@@ -1,0 +1,1 @@
+Xiaogao Yang, Deqiong Ding, Fei Xia, Dan Zhuang and Chang Tang, Cube is a Good Form: Hyperspectral Band Selection via Multi-dimensional and High-order Structure Preserved Clustering, Neural Networks (under revision), 2024.
